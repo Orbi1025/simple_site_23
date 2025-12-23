@@ -6,7 +6,7 @@
 
 body {
   font-family: "Comic Sans MS", cursive, fantasy, sans-serif;
-  background: linear-gradient(135deg, #1e1b4b 0%, #1e3a8a 50%, #312e81 100%);
+  background: linear-gradient(135deg, #f2b21c 0%, #fed60d 50%, #ffde59 100%);
   min-height: 100vh;
   color: white;
   overflow-x: hidden;
@@ -165,8 +165,8 @@ main {
 }
 
 .video-player {
-  width: 480px;
-  height: 360px;
+  width: 353px;
+  height: 640px;
   border-radius: 0.5rem;
   border: 2px solid rgba(255, 255, 255, 0.2);
   max-width: 100%;
